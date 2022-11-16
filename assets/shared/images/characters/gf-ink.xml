@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dancing Beat0000" x="15" y="15" width="348" height="665" frameX="-27" frameY="-15" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0001" x="15" y="15" width="348" height="665" frameX="-27" frameY="-15" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0002" x="378" y="15" width="344" height="672" frameX="-21" frameY="-9" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0003" x="378" y="15" width="344" height="672" frameX="-21" frameY="-9" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0004" x="737" y="15" width="363" height="676" frameX="-2" frameY="-7" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0005" x="737" y="15" width="363" height="676" frameX="-2" frameY="-7" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0006" x="1115" y="15" width="364" height="672" frameX="-2" frameY="-11" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0007" x="1115" y="15" width="364" height="672" frameX="-2" frameY="-11" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0008" x="1494" y="15" width="361" height="671" frameX="0" frameY="-12" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0009" x="1494" y="15" width="361" height="671" frameX="0" frameY="-12" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0010" x="1870" y="15" width="362" height="675" frameX="-3" frameY="-8" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0011" x="1870" y="15" width="362" height="675" frameX="-3" frameY="-8" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0012" x="737" y="15" width="363" height="676" frameX="-2" frameY="-7" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0013" x="737" y="15" width="363" height="676" frameX="-2" frameY="-7" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0014" x="737" y="15" width="363" height="676" frameX="-2" frameY="-7" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0015" x="2247" y="15" width="357" height="676" frameX="-41" frameY="-4" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0016" x="2247" y="15" width="357" height="676" frameX="-41" frameY="-4" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0017" x="2619" y="15" width="356" height="681" frameX="-42" frameY="0" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0018" x="2619" y="15" width="356" height="681" frameX="-42" frameY="0" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0019" x="2990" y="15" width="396" height="679" frameX="-3" frameY="-4" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0020" x="2990" y="15" width="396" height="679" frameX="-3" frameY="-4" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0021" x="3401" y="15" width="393" height="668" frameX="-3" frameY="-15" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0022" x="3401" y="15" width="393" height="668" frameX="-3" frameY="-15" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0023" x="15" y="711" width="394" height="672" frameX="-4" frameY="-11" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0024" x="15" y="711" width="394" height="672" frameX="-4" frameY="-11" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0025" x="424" y="711" width="356" height="678" frameX="-42" frameY="-5" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0026" x="424" y="711" width="356" height="678" frameX="-42" frameY="-5" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0027" x="2990" y="15" width="396" height="679" frameX="-3" frameY="-4" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0028" x="2990" y="15" width="396" height="679" frameX="-3" frameY="-4" frameWidth="399" frameHeight="683"/>
+	<SubTexture name="Dancing Beat0029" x="2990" y="15" width="396" height="679" frameX="-3" frameY="-4" frameWidth="399" frameHeight="683"/>
+</TextureAtlas>
